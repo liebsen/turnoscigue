@@ -209,6 +209,45 @@ input[type="checkbox"], input[type="radio"] {
 	}
 }
 
+
+@keyframes navAnim {
+  0% {
+    opacity: 0;
+  }
+  1% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.navbar-menu.is-active {
+  -webkit-animation-name: navAnim;
+  -moz-animation-name: navAnim;
+  -o-animation-name: navAnim;
+  animation-name: navAnim;
+  animation-delay: 3s;
+  animation-duration: 2s;
+}
+
+@keyframes slideDown {
+  0% {
+    transform: translateY(-100%);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
+
+.animated.slideDown {
+  -webkit-animation-name: slideDown;
+  -moz-animation-name: slideDown;
+  -o-animation-name: slideDown;
+  animation-name: slideDown;
+}
+
 .navbar-brand {
 	.navbar-item {
 		padding:0

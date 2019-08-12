@@ -57,7 +57,7 @@
     ]},
     "announcement": {
         "title": "Bienvenido a TurnosCigue",
-    	"message": "Deseas solicitar un turno ahora?",
+    	"message": "Gestioná un turno en segundos.",
     	"type": "is-success"
     },
     "turnosklasse": {
