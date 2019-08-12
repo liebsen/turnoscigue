@@ -56,8 +56,8 @@
     	}
     ]},
     "announcement": {
-        "title": "Bienvenido a TurnosCigue!",
-    	"message": "Bienvenido a la plataforma de turnos online exclusiva para clientes <strong>Mercedes-Benz</strong>.<br>Completa la información para solicitar un turno.",    
+        "title": "Bienvenido a TurnosCigue",
+    	"message": "Deseas solicitar un turno ahora?",
     	"type": "is-success"
     },
     "turnosklasse": {

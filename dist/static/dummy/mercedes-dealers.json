@@ -1,90 +1,13 @@
 [{
-	"slug":"klasse-nunez",
-	"nombre":"Klasse - NUÑEZ",
-	"imagen": "/static/dummy/img/dealers/SUCURSAL_2.jpg",
-	"email": "mercedesbenz@atencionweb.com",
-	"direccion": "Grecia 3633, Nuñez",
-	"localidad": "CABA",
-	"lat": "-34.546130",
-	"lng": "-58.463290",
-	"telefono": "4702-2095",
-	"whatsapp": "+54 9 11 5718-2736",
-	"horarios":
-	[
-		"9:00",
-		"10:00",
-		"11:00",
-		"12:00",
-		"14:00",
-		"15:00",
-		"16:00",
-		"17:00"
-	],
-	"servicios":
-	{
-		"auto": 
-		[
-			"reparacion",
-			"reposiciones-seguros",
-			"repuestos"
-		],
-		"vito": 
-		[
-			"reparacion",
-			"reposiciones-seguros",
-			"repuestos"
-		],
-		"sprinter": 
-		[
-			"repuestos"
-		]
-	}
-},
-{
-	"slug":"klasse-devoto",
-	"nombre":"Klasse - DEVOTO",
-	"imagen": "/static/dummy/img/dealers/Sucursal_1.jpg",	
-	"email": "mercedesbenz@atencionweb.com",
-	"direccion": "Av. Francisco Beiro 4420, Villa Devoto",
-	"localidad": "CABA",
-	"lat": "-34.599860",
-	"lng": "-58.502170",
-	"telefono": "4567-4549",
-	"whatsapp": "+54 9 11 5718-2736",
-	"horarios":
-	[
-		"9:00",
-		"10:00",
-		"11:00",
-		"12:00",
-		"14:00",
-		"15:00",
-		"16:00",
-		"17:00"
-	],	
-	"servicios":
-	{
-		"auto": 
-		[
-			"reparacion",
-			"repuestos"
-		],
-		"vito": 
-		[
-			"servicios"
-		]
-	}
-},
-{
 	"slug":"klasse-bonzi",
 	"nombre":"Klasse - ALDO BONZI",
 	"imagen": "/static/dummy/img/dealers/Sucursal_4.jpg",	
 	"email": "mercedesbenz@atencionweb.com",
-	"direccion": "Monseñor Bufano 8338, Aldo Bonzi",
+	"direccion": "Camino de Cintura y 1770, AU Tte. Gral. Pablo Riccheri, Aldo Bonzi, Buenos Aires",
 	"localidad": "Aldo Bonzi",
-	"lat": "-34.722390",
-	"lng": "-58.512010",
-	"telefono": "01112314444",
+	"lat": "-34.7220078",
+	"lng": "-58.512207",
+	"telefono": "011 4442-6004",
 	"whatsapp": "+54 9 11 5718-2736",
 	"horarios":
 	[
@@ -99,12 +22,6 @@
 	],	
 	"servicios":
 	{
-		"vito": 
-		[
-			"reparacion",
-			"reposiciones-seguros",
-			"repuestos"
-		],
 		"sprinter": [
 			"reparacion",
 			"reposiciones-seguros",
